@@ -186,7 +186,7 @@ header{
 }
 
 .input-box input:focus~label,
-.inbox-box input:valid~label {
+ .inbox-box input:valid~label {
     top: -5px;
 }
 
